@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/330861775203336194" target="_blank" rel="nofollow">
-    <img align="center" src="https://lanyard.cnrad.dev/api/869936375057752134?&animated=true&borderRadius=30px&idleMessage=None..." alt="Discord Presence">
+    <img align="center" src="https://lanyard.cnrad.dev/api/869936375057752134?&animated=true&borderRadius=30px&idleMessage=Busy..." alt="Discord Presence">
   </a>
 </p>
 
