@@ -2,6 +2,7 @@
 
 - 💻 I'm currently Learning **Java**
 - 👋 I'm 15 years old
+![](https://komarev.com/ghpvc/?username=ExponenteDevs&color=blueviolet)
 
 <p align="center">
   <a href="https://github.com/ExponenteDevs">
