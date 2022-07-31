@@ -9,11 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExponenteDevs&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <a href="https://github.com/ExponenteDevs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=exponentedevs&show_icons=true&theme=radical&count_private=true&locale=en" alt="exponentedevs"/>
-  </a>
-</p>
+## How to reach me
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miquelangelamengual)
 
 <p align="center">
   <a href="https://discord.com/users/330861775203336194" target="_blank" rel="nofollow">
