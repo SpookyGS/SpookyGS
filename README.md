@@ -3,12 +3,11 @@
 - 👋 Hi! This is ExponenteDev's Github profile
 - 🎓 I'm currently working on [Squads Network](https://squads.cc/discord)
 - 🎉 I'm 15 years old
+  ![](https://komarev.com/ghpvc/?username=ExponenteDevs&color=blue)
+  
 ## Used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miquelangelamengual&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  ![](https://komarev.com/ghpvc/?username=ExponenteDevs&color=blue)
 
 <p align="center">
   <a href="https://github.com/ExponenteDevs">
