@@ -3,7 +3,7 @@
 - 👋 Hi! This is ExponenteDev's Github profile
 - 🎓 I'm currently working on [Squads Network](https://squads.cc/discord)
 - 🎉 I'm 15 years old
-  ![](https://komarev.com/ghpvc/?username=ExponenteDevs&color=blue)
+- ![](https://komarev.com/ghpvc/?username=ExponenteDevs&color=blue)
   
 ## Used languages
 
