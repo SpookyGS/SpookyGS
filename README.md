@@ -9,9 +9,6 @@
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyGS&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Discord Profile
-<!-- Target -->
-const copy = require('clipboard-copy')
-
-button.addEventListener('click', function () {
-  copy('yuliss03')
-})
+```
+yuliss03
+```
