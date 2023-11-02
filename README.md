@@ -14,5 +14,5 @@
 
 <!-- Trigger -->
 <button class="btn" data-clipboard-target="#foo">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="Copy to clipboard" />
+  <img src="https://w7.pngwing.com/pngs/842/992/png-transparent-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-online-chat-thumbnail.png" alt="Copy to clipboard" />
 </button>
