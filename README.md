@@ -2,6 +2,7 @@
 
 - 👋 Hi! This is Spooky's Github profile
 - 🎉 I'm 16 years old
+- 🖥️ Lua and Java
 - ![](https://komarev.com/ghpvc/?username=SpookyGS&color=red)
   
 ## Languages
