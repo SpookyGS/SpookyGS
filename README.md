@@ -10,9 +10,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyGS&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Discord Profile
 <!-- Target -->
-<input id="foo" value="yuliss03" />
+const copy = require('clipboard-copy')
 
-<!-- Trigger -->
-<button class="btn" data-clipboard-target="#foo">
-  <img src="https://w7.pngwing.com/pngs/842/992/png-transparent-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-online-chat-thumbnail.png" alt="Copy to clipboard" />
-</button>
+button.addEventListener('click', function () {
+  copy('yuliss03')
+})
