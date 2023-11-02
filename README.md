@@ -10,7 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyGS&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Discord Profile
 <p align="center">
-  <a href="https://discord.com/users/330861775203336194" target="_blank" rel="nofollow">
+  <a href="https://discord.com/users/869936375057752134" target="_blank" rel="nofollow">
     <img align="center" src="https://lanyard.cnrad.dev/api/869936375057752134?&animated=true&borderRadius=30px&idleMessage=Busy..." alt="Discord Presence">
   </a>
 </p>
