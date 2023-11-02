@@ -9,15 +9,10 @@
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyGS&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Discord Profile
-const getDiscord = count => 'yuliss03'.repeat(count);
+<!-- Target -->
+<input id="foo" value="yuliss03" />
 
-const button = document.createElement('button');
-button.textContent = 'yuliss03';
-button.style.fontSize = '40px';
-document.body.appendChild(button);
-
-let i = 1;
-button.addEventListener('click', () => {
-  window.copyTextToClipboard(getDiscord(i));
-  button.textContent = `Copy ${getDiscord(++i)}`;
-});
+<!-- Trigger -->
+<button class="btn" data-clipboard-target="#foo">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiscord.com%2Fbranding&psig=AOvVaw0y4VHG_lwYmzUdoV1m5evB&ust=1699052096125000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiun7e0poIDFQAAAAAdAAAAABAE" alt="Copy to clipboard" />
+</button>
