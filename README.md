@@ -9,8 +9,15 @@
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyGS&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Discord Profile
-import copy from 'copy-text-to-clipboard';
+const getDiscord = count => 'yuliss03'.repeat(count);
 
+const button = document.createElement('button');
+button.textContent = 'yuliss03';
+button.style.fontSize = '40px';
+document.body.appendChild(button);
+
+let i = 1;
 button.addEventListener('click', () => {
-	copy('🦄🌈');
+  window.copyTextToClipboard(getDiscord(i));
+  button.textContent = `Copy ${getDiscord(++i)}`;
 });
