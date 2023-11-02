@@ -14,5 +14,5 @@
 
 <!-- Trigger -->
 <button class="btn" data-clipboard-target="#foo">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiscord.com%2Fbranding&psig=AOvVaw0y4VHG_lwYmzUdoV1m5evB&ust=1699052096125000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiun7e0poIDFQAAAAAdAAAAABAE" alt="Copy to clipboard" />
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="Copy to clipboard" />
 </button>
