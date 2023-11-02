@@ -1,7 +1,7 @@
 <br />
 
 - 👋 Hi! This is Spooky's Github profile
-- 🎉 I'm 15 years old
+- 🎉 I'm 16 years old
 - ![](https://komarev.com/ghpvc/?username=SpookyGS&color=red)
   
 ## Languages
